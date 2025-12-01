@@ -6,7 +6,7 @@ Projeto que explora IAs generativas para criar conteúdos realistas e comparar o
 
 ## 🤖 Tecnologias Utilizadas
 
-* Modelos de imagem: Stable Diffusion / DALL·E / Midjourney
+* Modelos de imagem: Stable Diffusion / DALL·E / Midjourney / Gemini
 * Modelos de texto: GPT
 * TTS / Voice-Cloning (áudio)
 * Edição: Photoshop / GIMP / DaVinci Resolve
@@ -28,6 +28,8 @@ Projeto que explora IAs generativas para criar conteúdos realistas e comparar o
 * Áudios e vídeos curtos produzidos
 * Página publicada no GitHub Pages
 * Registro completo dos prompts em `prompts.md`
+
+![Prompt-Gemini](images/prompt-gemini.png)
 
 ## 💭 Reflexão 
 
