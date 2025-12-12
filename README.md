@@ -23,13 +23,10 @@ Projeto que explora IAs generativas para criar conteúdos realistas e comparar o
 
 ## 🚀 Resultados
 
-* Galeria com conteúdos reais vs gerados
+* Conteúdos reais vs gerados
 * Quiz interativo
 * Áudios e vídeos curtos produzidos
-* Página publicada no GitHub Pages
-* Registro completo dos prompts em `prompts.md`
-
-![Prompt-Gemini](images/prompt-gemini.png)
+* Registro completo dos prompts 
 
 ## 💭 Reflexão 
 
